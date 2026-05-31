@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { Dumbbell, Activity, Heart, User, Layers, Users, Target } from 'lucide-react';
+import { Dumbbell, Activity, User, Layers, Users, Target } from 'lucide-react';
 
 const programs = [
   {

@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { TrendingUp, Award, Calendar } from 'lucide-react';
+import { TrendingUp, Award } from 'lucide-react';
 
 const stories = [
   {
